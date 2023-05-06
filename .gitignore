@@ -1,4 +1,3 @@
-/zig-cache/
-/zig-out/
-/answers/
-/patches/healed/
+.direnv
+zig-cache
+zig-out
